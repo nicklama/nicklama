@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🎓 I am a mathematics graduate with a real passion for applying my analytical lens to solve problems in meaningful contexts
+- 🔭 I recently completed a 3 month \_nology course where I learnt: JavaScript, TypeScript, ReactJS, Java, Spring Boot + more
+- 🌱 I’m currently learning AWS and improving my TypeScript skills
+- 🔎 Checkout my [web portfolio](https://nicklama.github.io/web-portfolio/) to see all my current projects
+- ⚡ Fun fact: I am studying Italian and plan to visit my grandparents' hometown soon 🍕🌏
+
 <!--
 **nicklama/nicklama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
